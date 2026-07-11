@@ -6,3 +6,4 @@
 
 *   [**SQL (Basic) - HackerRank**](https://www.hackerrank.com/certificates/0bb63c95ec8e)
 *   [**SQL (Intermediate) - HackerRank**](https://www.hackerrank.com/certificates/559450bc5fdd)
+*   [**PyThon (Basic) - HackerRank**](https://www.hackerrank.com/certificates/607387becf9f)
