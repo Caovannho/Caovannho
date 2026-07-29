@@ -6,7 +6,9 @@
 *   **Data/BI Tools:** SSIS, SSAS, MDX, SQL Server
 *   **Khác:** Git, GitHub Copilot, Pygame
 
-### 📜 Chứng chỉ (Certifications)
+### 📂 More about me Chứng chỉ (Certifications)
+* 📜 Check out my [Certificates & Achievements Repository](https://github.com/Caovannho/Certificates) to see all my technical certificates (Python, SQL) and workshop badges.
+
 
 #### 🐍 Python
 *   [**Python (Basic) - HackerRank**](https://www.hackerrank.com/certificates/607387becf9f)
