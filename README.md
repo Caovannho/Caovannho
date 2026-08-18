@@ -7,6 +7,6 @@
 *   **Khác:** Git, GitHub Copilot, Pygame
 
 ### 📂 Chứng chỉ (Certifications)
-* 📜 [Certificates & Achievements Repository](https://github.com/Caovannho/Certificates) 
+📜 [Certificates & Achievements Repository](https://github.com/Caovannho/Certificates) 
 
 
