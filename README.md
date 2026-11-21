@@ -87,6 +87,14 @@ Focused on building technical foundations through programming, data-related proj
 
 ---
 
+## Problem Solving
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/vannho?ext=contest"/>
+</p>
+
+---
+
 <h2>Certifications & Achievements</h2>
 
 <p align="center">
@@ -101,13 +109,6 @@ Focused on building technical foundations through programming, data-related proj
   <sub>Continuous Learning · Technical Development · Academic Growth</sub>
 </p>
 
----
-
-## Problem Solving
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/vannho?ext=contest"/>
-</p>
 
 ---
 
