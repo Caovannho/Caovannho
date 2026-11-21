@@ -67,12 +67,11 @@ Currently building technical foundations through academic coursework, programmin
 
 <p align="center">
   <a href="https://github.com/Caovannho/Certificates">
-    <img src="https://img.shields.io/badge/ACADEMIC_ACHIEVEMENTS-EXPLORE_CERTIFICATES-C8A96A?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ACADEMIC_ACHIEVEMENTS-555555?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;
+  <a href="https://github.com/Caovannho/Certificates">
+    <b><u>View Certificates ↗</u></b>
   </a>
-</p>
-
-<p align="center">
-  <sub>Continuous Learning · Technical Development · Academic Growth</sub>
 </p>
 
 ---
