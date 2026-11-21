@@ -82,7 +82,7 @@ Focused on building technical foundations through programming, data-related proj
 ## Projects
 
 <p align="center">
-  <i>Academic and personal projects in programming, databases, and data-related technologies.</i>
+  <i>..</i>
 </p>
 
 ---
