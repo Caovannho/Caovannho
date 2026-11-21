@@ -1,4 +1,4 @@
-# Cao Van Nho
+<h1 align="center">Cao Van Nho</h1>
 
 <p align="center">
   <strong>Data Science | Data Analytics | Business Intelligence</strong>
