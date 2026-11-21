@@ -63,15 +63,18 @@ Currently building technical foundations through academic coursework, programmin
 
 ---
 
-## Certifications & Achievements
+<h2>Certifications & Achievements</h2>
 
 <p align="center">
-  <a href="https://github.com/Caovannho/Certificates">
-    <img src="https://img.shields.io/badge/ACADEMIC_ACHIEVEMENTS-555555?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/◉-ACADEMIC_ACHIEVEMENTS-555555?style=for-the-badge&labelColor=555555" />
   &nbsp;
   <a href="https://github.com/Caovannho/Certificates">
-    <b><u>View Certificates ↗</u></b>
+    <img src="https://img.shields.io/badge/View_Certificates-0969DA?style=for-the-badge&labelColor=0D1117" />
   </a>
+</p>
+
+<p align="center">
+  <sub>Continuous Learning · Technical Development · Academic Growth</sub>
 </p>
 
 ---
