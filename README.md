@@ -1,3 +1,5 @@
+# Cao Van Nho
+
 <h1 align="center">Cao Van Nho</h1>
 
 <p align="center">
@@ -12,37 +14,66 @@
 
 ## About Me
 
-Computer Science student with an interest in Data Science, Data Analytics, Database Systems, and Business Intelligence.
+Computer Science student interested in Data Analytics, Data Science, Database Systems, and Business Intelligence.
 
-Currently building technical foundations through academic coursework, programming projects, and continuous self-learning.
+Focused on building technical foundations through programming, data-related projects, and continuous learning.
 
 ---
 
 ## Technical Skills
 
 ### Languages
+
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white"/>
 </p>
 
 ### Data & Business Intelligence
+
 <p>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/SSIS-Data_Integration-4479A1?style=flat-square"/>
-<img src="https://img.shields.io/badge/SSAS-Analysis_Services-4479A1?style=flat-square"/>
-<img src="https://img.shields.io/badge/MDX-Query_Language-607D8B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SSIS-Data_Integration-4479A1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SSAS-Analysis_Services-4479A1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MDX-Query_Language-607D8B?style=flat-square"/>
 </p>
 
 `Data Analysis` · `ETL` · `Data Warehousing` · `OLAP` · `Database Design`
 
-### Tools
+### Tools & Technologies
+
+#### Programming & Development
+
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pygame-2D_Development-43A047?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Git-E34F26?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+</p>
+
+#### Data & Database
+
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SSIS-4479A1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SSAS-3976A8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MDX-607D8B?style=flat-square"/>
+</p>
+
+#### AI Tools
+
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-343541?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-24292F?style=flat-square&logo=githubcopilot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/>
+</p>
+
+#### Other
+
+<p>
+  <img src="https://img.shields.io/badge/Pygame-43A047?style=flat-square"/>
+  <img src="https://img.shields.io/badge/2D_Development-43A047?style=flat-square"/>
 </p>
 
 ---
@@ -50,7 +81,7 @@ Currently building technical foundations through academic coursework, programmin
 ## Problem Solving
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/vannho?ext=contest"/>
+  <img src="https://leetcard.jacoblin.cool/vannho?ext=contest"/>
 </p>
 
 ---
