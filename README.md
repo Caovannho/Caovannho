@@ -76,13 +76,6 @@ Focused on building technical foundations through programming, data-related proj
   <img src="https://img.shields.io/badge/2D_Development-43A047?style=flat-square"/>
 </p>
 
----
-
-## Problem Solving
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/vannho?ext=contest"/>
-</p>
 
 ---
 
@@ -106,6 +99,14 @@ Focused on building technical foundations through programming, data-related proj
 
 <p align="center">
   <sub>Continuous Learning · Technical Development · Academic Growth</sub>
+</p>
+
+---
+
+## Problem Solving
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/vannho?ext=contest"/>
 </p>
 
 ---
